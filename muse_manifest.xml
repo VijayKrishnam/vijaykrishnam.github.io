@@ -1,0 +1,22 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="delicatedandelionarts.com" resolutions="1x" timestamp="1552378258105">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="155370204" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="06f3fa367b0debe3aa6eb95f480cfe3c.jpg" crc="358644914" seo="true" mt="1552235820000"/>
+    <file name="04884b40eaafa9f998b275360eee75e9.jpg" crc="223003925" seo="true" mt="1552235476000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u103-6.png" crc="3825889810" ref="index"/>
+  </folder>
+  <file name="index.html" crc="509802188" seo="true" mt="1552377979722" redirect="true"/>
+</manifest>
